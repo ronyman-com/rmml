@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/ronyman-com/rmml/edit/gh-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ronyman markup language.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+rmml coming soon!
 
 ```markdown
 Syntax highlighted code block
